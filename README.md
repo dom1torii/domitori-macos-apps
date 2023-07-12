@@ -22,9 +22,9 @@ Menu bar: [Hidden Bar](https://superbits.co/hidden/) - Tool to hide menu bar ico
 [Keka](https://www.keka.io/en/) - Best free file archiver.  
 
 ### Web Browsers
-[Arc](https://arc.net/) - Very good web browser for productivity and surfing the web. (still in beta)
-[Brave](https://brave.com/) - Fast Chromium based web browser with built-in adblocker.
-[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - Quantum based web browser with additional features for developers.
+[Arc](https://arc.net/) - Very good web browser for productivity and surfing the web. (still in beta)  
+[Brave](https://brave.com/) - Fast Chromium based web browser with built-in adblocker.  
+[Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - Quantum based web browser with additional features for developers.  
 
 ### Productivity
 [Obsidian](https://obsidian.md/) - Great free user friendly note-taking app with tons of cool features.  
