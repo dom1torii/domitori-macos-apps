@@ -8,7 +8,7 @@ Currently I'm running MacOS 14 (MacOS Sonoma Developer Beta 3)
 ### Terminal
 Terminal: [iTerm2](https://iterm2.com/) - Good terminal with tons of customization and useful features.  
 Shell: [Oh My Zsh](https://ohmyz.sh/) - Framework to manage your zsh.  
-Packet Manager: [Homebrew](https://brew.sh/) - Best MacOS packet manager.  
+Package Manager: [Homebrew](https://brew.sh/) - Best MacOS package manager.  
 Terminal Font: [JetBrains Mono Regular 12](https://www.nerdfonts.com/font-downloads) - Just a good font that won't strain your eyes.  
 
 ### System
