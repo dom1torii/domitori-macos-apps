@@ -16,7 +16,7 @@ Window Manager: [Rectangle](https://rectangleapp.com/) - Great snapping window m
 Menu bar: [Hidden Bar](https://superbits.co/hidden/) - Tool to hide menu bar icons that you don't want to see but still want to use them.  
 
 ### Useful Apps
-[Shottr](https://shottr.cc/) - Free screenshot app with plenty of cool features.  
+[Shottr](https://shottr.cc/) - Free screenshot tool with plenty of cool features.  
 [Clean Me](https://kevin-de-koninck.github.io/Clean-Me/) - Easy to use system cleaner.  
 [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - Shows current weather in your menu bar.  
 [Keka](https://www.keka.io/en/) - Best free file archiver.
