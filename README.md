@@ -10,6 +10,7 @@ Terminal: [iTerm2](https://iterm2.com/) - Good terminal with tons of customizati
 Shell: [Oh My Zsh](https://ohmyz.sh/) - Framework to manage your zsh.  
 Package Manager: [Homebrew](https://brew.sh/) - Best MacOS package manager.  
 Terminal Font: [JetBrains Mono Regular 12](https://www.nerdfonts.com/font-downloads) - Just a good font that won't strain your eyes.  
+Terminal Text Editor: [Neovim](https://neovim.io/) - Better vim.  
 
 ### System
 Window Manager: [Rectangle](https://rectangleapp.com/) - Great snapping window manager with plenty of free features.  
