@@ -30,5 +30,8 @@ Menu bar: [Hidden Bar](https://superbits.co/hidden/) - Tool to hide menu bar ico
 ### Productivity
 [Obsidian](https://obsidian.md/) - Great free user friendly note-taking app with tons of cool features.  
 
+### Fun
+[RunCat](kyome.io/runcat/index.html) - Shows running cat (or other animations) in your dock, also a pretty good system monitor.  
+
 ## Conclusion
 In my opinion it's important to customize your macOS to get the most of it, especially if you're spending a lot of time in your mac computer.
